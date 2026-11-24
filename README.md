@@ -1,2 +1,5 @@
 # Phlebopus_bruchii_statistical_analysis
 Conditional logistic regression analysis of environmental variables associated with basidiome occurrence in Phlebopus bruchii
+
+# Study design and site selection
+A paired sampling design was used to investigate the environmental factors associated with Phlebopus bruchii basidiome occurrence. A total of 28 pairs of presence (P) and absence (A) sites were established during field surveys. Presence sites were established wherever P. bruchii basidiomes were encountered. For each presence site, a paired absence site was selected 50–100 m away by randomly walking until a location with comparable vegetation structure (canopy cover, shrub cover, herbaceous cover, grass cover, and nearby tree composition = matching variables), but without basidiomes, was identified. Vegetation structure and soil physicochemical properties were characterized at each site. The environmental variables included soil pH, electrical conductivity, organic carbon, total nitrogen, available phosphorus, exchangeable cations (Ca, Mg, K, and Na), and soil water content.
